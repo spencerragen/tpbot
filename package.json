@@ -1,0 +1,20 @@
+{
+	"name": "tpbot",
+	"version": "0.2.3",
+	"description": "Experimental TagPro PUG bot",
+	"preferGlobal": "true",
+	"bin": { "tpbot": "tpbot.js" },
+	"author": "Spencer Ragen",
+	"engines": { "node": "*" },
+	"dependencies": {
+		"async": "0.9.0",
+		"colors": ""0.6.2",
+		"cookie": "0.1.2"
+		"http": "0.0.0",
+		"lodash": "2.4.1",
+		"moment": "2.8.1",
+		"mumble": "0.0.2",
+		"redis": "0.12.1",
+		"socket.io-client": "1.0.6",
+	}
+}
